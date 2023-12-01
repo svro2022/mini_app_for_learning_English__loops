@@ -1,4 +1,4 @@
-# Mini app for learning English. <br>
+# Mini app for learning English (loops). <br>
 
 ---
 Здесь мы разрабатываем на Python консольное (то есть не имеющее интерфейса) приложение для обучения английскому. <br> 
